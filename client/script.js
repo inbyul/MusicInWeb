@@ -4,4 +4,5 @@ if (link.startsWith("http://") || link.startsWith("https://")) {
 
 } else {
   alert("웹주소가 잘못되었습니다!");
+  
 }
